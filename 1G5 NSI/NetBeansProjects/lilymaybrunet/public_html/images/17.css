@@ -1,0 +1,12 @@
+#menu>ul {
+    list-style-type: none;
+}
+
+#menu>ul>li {
+    padding: 5px;
+    background-color: activeborder;
+    border-radius: 5px;
+    margin: 5px;
+    width: 50px;
+}
+
